@@ -4,14 +4,15 @@
 
 <h4>Mis proyectos<h4/>
 
- <h5>
- - 🔭 El proyecto de paises lo desarrollé usando sequelize, express y react, consiste en una pagina para buscar paises y realizar filtros por las opciones seleccionadas. [project Countries](https://pi-countries-rust.vercel.app/)
+  - 🔭 El proyecto de paises lo desarrollé usando sequelize, express y react, consiste en una pagina para buscar paises y realizar filtros por las opciones seleccionadas. [project Countries](https://pi-countries-rust.vercel.app/)
 
 - 👯 El proyecto EatOut es un proyecto de reservas de restaurantes, el cual esta desarrollado en react Native y su dashboard en react.js, este proyecto fue desarrollado en conjunto con 6 compañeros más, mi mayor aporte está reflejado en la dashboard. [project EatOut](https://eatout-lac.vercel.app/)
   
-  <h5/>
+ 
 
-- 💬 Preguntame por  **Javascript | React | Redux | Node.js | HTML | CSS | PostgreSQL**
+<h4>💬 Preguntame por <h4/> 
+ 
+ **Javascript | React | Redux | Node.js | HTML | CSS | PostgreSQL**
 
 - 📫Contactarme!
   **diana.canonnieto@gmail.com
