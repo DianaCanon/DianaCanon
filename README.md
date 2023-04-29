@@ -9,7 +9,7 @@
 
 - 👯 El proyecto EatOut es un proyecto de reservas de restaurantes, el cual esta desarrollado en react Native y su dashboard en react.js, este proyecto fue desarrollado en conjunto con 6 compañeros más, mi mayor aporte está reflejado en la dashboard. [project EatOut](https://eatout-lac.vercel.app/)
   
-  </span>
+  <span/>
 
 - 💬 Preguntame por  **Javascript | React | Redux | Node.js | HTML | CSS | PostgreSQL**
 
