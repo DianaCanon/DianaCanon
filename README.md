@@ -1,5 +1,4 @@
 
- <img src="" alt="banner" width="100" height="40"/>
 
 <h1 align="center">Hola 👋 Mi nombre es Diana Canon</h1>
 <h6 align="center">**Javascript | React.js | Redux | Node.js | HTML | CSS | PostgreSQL**</h6>
