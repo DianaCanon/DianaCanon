@@ -13,8 +13,8 @@
   
   
  <h4 align="left">📫 No dudes en contactarme!!</h4>
-  **diana.canonnieto@gmail.com
-  dianacanon2000@yahoo.es**
+  diana.canonnieto@gmail.com
+  dianacanon2000@yahoo.es
 <p align="left">
 <a href="https://www.linkedin.com/in/diana-marcela-ca%C3%B1on-nieto-a93675135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diana-marcela-ca%c3%b1on-nieto-a93675135/" height="30" width="40" /></a>
 </p>
