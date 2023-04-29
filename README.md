@@ -8,7 +8,10 @@
 
 - 💬 Preguntame por  **Javascript | React | Redux | Node.js | HTML | CSS | PostgreSQL**
 
-- 📫 Puedes contactarme **diana.canonnieto@gmail.com, dianacanon2000@yahoo.es,https://www.linkedin.com/in/diana-marcela-ca%C3%B1on-nieto-a93675135/**
+- 📫 Puedes contactarme 
+  **diana.canonnieto@gmail.com
+  dianacanon2000@yahoo.es
+  https://www.linkedin.com/in/diana-marcela-ca%C3%B1on-nieto-a93675135/**
 
 <h2 align="left">Si te interesaron mis proyectos y puedo aportarte, no dudes en contactarme!!</h2>
 <p align="left">
