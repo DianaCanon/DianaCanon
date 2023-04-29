@@ -1,12 +1,15 @@
 <h1 align="center">Hola 👋 Mi nombre es Diana Canon</h1>
 
-<h4 align="center">Soy una Fullstack developer colombiana orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios. Despues de arriesgarme en este camino ahora soy Fullstack developer y las tecnologías que manejo puedes verlas a continuación: </h4>
+<h4 align="center">Soy una Fullstack developer colombiana orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios. Despues de arriesgarme en este camino ahora soy Fullstack developer y me encanta estar en este mundo del código y realizar proyectos que puedan ayudar a las personas y a las empresas. </h4>
 
 <h4>Mis proyectos<h4/>
 
+ <span>
  - 🔭 El proyecto de paises lo desarrollé usando sequelize, express y react, consiste en una pagina para buscar paises y realizar filtros por las opciones seleccionadas. [project Countries](https://pi-countries-rust.vercel.app/)
 
 - 👯 El proyecto EatOut es un proyecto de reservas de restaurantes, el cual esta desarrollado en react Native y su dashboard en react.js, este proyecto fue desarrollado en conjunto con 6 compañeros más, mi mayor aporte está reflejado en la dashboard. [project EatOut](https://eatout-lac.vercel.app/)
+  
+  </span>
 
 - 💬 Preguntame por  **Javascript | React | Redux | Node.js | HTML | CSS | PostgreSQL**
 
