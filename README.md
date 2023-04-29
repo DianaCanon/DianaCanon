@@ -2,7 +2,8 @@
 <h4 align="center">Soy una Fullstack developer Colombiana muy enamorada del frontend, de profesión contadora especialista de impuestos que se interesó por la tecnología y la programación a partir de varios proyectos en que participó para automatizar diversos temas contables y tributarios. Despues de arriesgarme en este camino ahora soy Fullstack developer y las tecnologías que manejo puedes verlas a continuación: </h4>
 
 <h3>Mis proyectos<h3/>
-- 🔭 El proyecto de paises lo desarrollé usando sequelize, express y react, consiste en una pagina para buscar paises y realizar filtros por las opciones seleccionadas. [project Countries](https://pi-countries-rust.vercel.app/)
+
+ - 🔭 El proyecto de paises lo desarrollé usando sequelize, express y react, consiste en una pagina para buscar paises y realizar filtros por las opciones seleccionadas. [project Countries](https://pi-countries-rust.vercel.app/)
 
 - 👯 El proyecto EatOut es un proyecto de reservas de restaurantes, el cual esta desarrollado en react Native y su dashboard en react.js, este proyecto fue desarrollado en conjunto con 6 compañeros más, mi mayor aporte está reflejado en la dashboard. [project EatOut](https://eatout-lac.vercel.app/)
 
