@@ -2,7 +2,7 @@
 <h6 align="center">**Javascript | React.js | Redux | Node.js | HTML | CSS | PostgreSQL**</h6>
 
 
-<h4 align="center">Soy una Fullstack developer colombiana orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios. Después de arriesgarme en este camino ahora soy Fullstack developer y me encanta estar en este mundo del código y realizar proyectos que puedan ayudar a las personas y a las empresas. </h4>
+#<h4 align="center">Soy una Fullstack developer colombiana orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios. Después de arriesgarme en este camino ahora soy Fullstack developer y me encanta estar en este mundo del código y realizar proyectos que puedan ayudar a las personas y a las empresas. </h4>
 
 <h4>Mis proyectos<h4/>
 
