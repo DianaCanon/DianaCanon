@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DianaCanon/DianaCanon/main/assets/" alt="imagen" width="100%"/>
+<img src="https://raw.githubusercontent.com/DianaCanon/DianaCanon/main/assets/banner.jpg" alt="imagen" width="100%" />
 
 <h1 align="center">Hola 👋 Mi nombre es Diana Canon</h1>
 <h6 align="center">**Javascript | React.js | Redux | Node.js | HTML | CSS | PostgreSQL**</h6>
