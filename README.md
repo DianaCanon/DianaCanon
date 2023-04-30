@@ -34,6 +34,10 @@ Si quieres contar conmigo para tus proyectos no dudes en contactarme a través d
 <p align="left">
 <a href="https://www.linkedin.com/in/diana-marcela-ca%C3%B1on-nieto-a93675135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diana-marcela-ca%c3%b1on-nieto-a93675135/" height="30" width="40" /></a>
 </p>
-  
+   
+   ## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=DianaCanon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 
