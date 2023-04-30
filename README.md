@@ -4,7 +4,15 @@
 <h6 align="center">**Javascript | React.js | Redux | Node.js | HTML | CSS | PostgreSQL**</h6>
 
 
-<span align="center"> Soy una Fullstack developer colombiana orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios. Después de arriesgarme en este camino ahora soy Fullstack developer y me encanta estar en este mundo del código y realizar proyectos que puedan ayudar a las personas y a las empresas. </span>
+<span align="center"> Soy una Full Stack Developer orientada al Front-end, de profesión Contadora que se interesó por la tecnología y la programación a partir de varios proyectos en que participé para automatizar diversos temas contables y tributarios, en dichas experiencias desarrollé habilidades de organización, liderazgo, resolución de problemas y toma de decisiones. 
+
+Después de arriesgarme en este camino ahora soy Fullstack developer y me encanta estar en este mundo del código y realizar proyectos que puedan ayudar a las personas y a las empresas. Las principales tecnologías con las que trabajo son Javascript, React, Redux, HTML, CSS, Express,  PostgreSQL.
+
+ Me defino como una persona disciplinada, comprometida, creativa, participativa, trabajo bien en equipo y tengo adaptación al cambio. Siempre me he inclinado por hacer que la tecnología nos ayude a realizar nuestras labores de una forma más eficiente y estoy orgullosa de hacer parte de proyectos en los cuales puedo hacer que eso sea una realidad.
+
+En mi tiempo libre disfruto de compartir con mi familia que son mi mayor motivación para seguir siendo una mejor versión de mí cada día.
+
+Si quieres contar conmigo para tus proyectos no dudes en contactarme a través del email dianacanon2000@yahoo.es o diana.canonnieto@gmail.com </span>
 
 <h3>Mis proyectos</h3>
 
